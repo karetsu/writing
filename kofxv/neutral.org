@@ -1,0 +1,27 @@
+#+TITLE: The 3-structure of neutral
+
+The neutral game can be considered in terms of yourself and your opponent acting in one of three different ways. 
+
+** Pre-emption (oki-waza)
+To pre-emptively make a move because your button controls a certain space or because it wins against certain moves. An example of this is using Elisabeth's far D to "hold" the space directly in front of her, without the express intention of hitting your opponent. The intent here is to say "this area on the screen belongs to me, if you move into it you are getting hit or forced to block". 
+
+** Action (ate-waza)
+To perform a move which will hit an opponent. For example, dashing in and pressing a button to put your opponent into blockstun. 
+
+** Reaction (sashi-kaeshi)
+To wait for your opponent to make a move and to react to it.
+
+
+It's a rather simplified consideration but generally you can think of it as *pre-emption* beats *action*, which beats *reaction*, which beats *pre-emption* in a cycle.
+
+** Examples
+1. /pre-emption beats action/
+  Krohnen presses 5c at range 1 (where it will not hit). This prevents you from running in and pressing a button to put him in block or hitstun. 
+2. /action beats reaction/
+  Angel runs in and presses 5b, this is quick enough that you are prevented from moving forward and reacting to the move. Here, you could argue that you do react with a block, but this is not being active in the situation and is not necessarily winning the scenario.
+3. /reaction beats pre-emption/
+  Elisabeth presses far D, but you are out of range, if you are waiting and reacting to this you can punish with a full combo.
+
+These 'states' interact differently depending on matchup. Anti-airs, hops and the KoF "triangle" also fit this structure. For example, you can anti-air hops with reaction or pre-emptive moves. Generally, you could say that many players on higher levels are mostly reactive but in the grand scheme of things one approach is not enough. Interactions within the three-structure will always emerge and you must be able to fluidly move between the three different states depending on your opponent's actions. This is where the real mind games emerge. You should then supplement this knowledge and reading of opponents with concepts explained in e.g. [[Footsies 101][https://sonichurricane.com/?page_id=1702]] or Seth Killian's Domination series of how to manipulate your opponent's mental state and make them mis-judge a situation. 
+
+The King of Fighters XV leans very heavily into utilising your own movement options to deceive your opponent into reacting to something which is not there or not happening. This actually puts increased importance on the ability to flow between the three states. If you become predictable in sticking into space control your opponent will space and move better than you and only need to be able to react. For more on this, you can move on to Mind Games.

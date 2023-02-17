@@ -1,0 +1,75 @@
+#+TITLE: Advanced Defending
+
+In order to train defensive scenarios you must first be familiar with the most common active defensive options
+
+- Blocking
+- Invulnerable moves
+- Fuzzy options
+
+
+* Blocking
+
+This is the most straight forward way in which you deal with having to defend. In 2D fighting games your default block will always be crouch blocking with high block being the exception. This is because all characters have fast low hitting moves, but moves which hit high (overhead) are typically slow other than by exception. 
+
+<Insert about not just blocking indefinitely, guard crush and how blocking is REALLY strong in KOF>
+
+
+* Invulnerable moves
+
+To do
+
+
+* Fuzzy options
+
+Fuzzy options are a type of defensive option select, which always begin with block, and are simply additional options to trying to block normally and correctly teching throws. The areas of use are often specific, and are often used on wake up and specific situations in specific matchups. They are, however, the strongest defensive options because they reduce the risk involved in different decision making situations. This also facilitates the development of mind games as each option has specific ways to beat it.
+
+The options are
+
+** Block
+Useful in specific high/low scenarios
+
+The inputs for fuzzy block are:
+#+begin_verse
+    Low block -> High Block -> Low Block
+#+end_verse
+or
+#+begin_verse
+    High Block -> Low Block -> High Block
+#+end_verse
+depending on whether it is the high or low which would typically hit first. This can make it possible to block situations such as Angel’s corner mixups where the high would typically hit high first and you can block the empty low using the second input. 
+
+In previous KoF games fuzzy block had the advantage of also extending the duration of throw invulnerability on wakeup but this is not the case in KoFXV. This worked by repeatedly moving between the block options, quickly for as long as you wanted. 
+
+
+** Abare
+Very strong in safe jump situations
+
+The inputs for fuzzy abare are:
+#+begin_verse
+    Block -> Hit -> Block
+#+end_verse
+where the timing of the hit is during blockstun of the first move the opponent would have a done. This is done to block and then hit the opponent before certain moves/mixups have finished startup.
+
+Somewhat simplified you could say that you during fuzzy abare want a fast move that preferably hits upwards, like Iori close C. This also covers your opponent empty jumping and then neutral jumping again as well as empty jump into low hitting moves provided the button pressed is also fast. 
+
+
+** Jump
+Strong against throw mixups and command grabs, although not when the character aiming to throw has a high hitting close C (for example, Yashiro).
+
+The inputs for fuzzy jump are:
+#+begin_verse
+    Block -> Jump -> Block
+#+end_verse
+where the timing of the jump/hop is during blockstun of the first move the opponent would have a done. This is done to block and then jump out if the opponent has tried to throw or command grab.
+
+This option can be stronger in some games than others. In KoF it is weaker because normal throws are option selected with buttons which typically hit upwards. It can still be useful against grappler characters though.
+
+
+** Throw
+Fuzzy throw is strong against both opponents running in and empty jump into low hitting moves.
+
+The inputs for fuzzy throw are:
+#+begin_verse
+    Block -> Back + C or D -> Block
+#+end_verse
+
